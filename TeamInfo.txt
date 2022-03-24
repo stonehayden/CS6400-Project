@@ -1,0 +1,8 @@
+Team##:123
+Xianwen Peng    email: xpeng81@gatech.edu
+Shane Thompson    email: shanet80@gatech.edu
+Stone Hayden    email: shayden33@gatech.edu
+
+SQL:
+cs6400-2021-03-Team123/Phase_3/src/data/init.sql
+cs6400-2021-03-Team123/Phase_3/src/data/queries.sql
